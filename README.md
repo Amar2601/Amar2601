@@ -72,6 +72,13 @@ Contributed to the full mobile application development lifecycle from planning, 
 
 [Get it on Google play](https://play.google.com/store/apps/details?id=com.mahakaalvaani)
 
+### 6.Finllect
+The application considers your micro-payments, budgets and your in-app activity. This includes your ability to make payments on time, the financial content you consume on Finllect and your ability to stick to budgets.
+#### Responsibility:
+Worked with architects, engineers, and product management to deliver userfriendly and visually appealing for the Android platform. Created and tested the complete app developed by myself before handing over to the testing team. Ensured that content met or exceeded business and client requirements 100% of the time. While writing code followed MVVM architecture with power of kotlin to make a robust, clean code base.
+
+[Get it on Google play](https://play.google.com/store/apps/details?id=com.richtech.Finllect)
+
 
 
 
