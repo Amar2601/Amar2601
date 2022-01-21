@@ -25,7 +25,7 @@
 - Google Apis
 
 ## Learning
--Flutter
+- Flutter
 
 ## Education
 ##### B.TECH - Computer Science and Engineering
