@@ -14,6 +14,19 @@
 - Designed user interfaces that engaged multiple senses and produced immersive experiences.
 - Utilized comprehensive knowledge of mobile landscape, emerging technologies and innovations to remain on cutting edge of Android market.
 
+## Skills
+- Android 
+- java
+- kotlin
+- SQLite
+- MVVM
+- Android UI Design
+- Github
+- Google Apis
+
+## Learning
+-Flutter
+
 ## Education
 ##### B.TECH - Computer Science and Engineering
 _Northern India Institute of  Technologies, Lucknow_
